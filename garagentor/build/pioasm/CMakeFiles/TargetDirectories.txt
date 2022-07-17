@@ -1,0 +1,3 @@
+C:/Users/dirkj/Documents/Pico/pico-project-generator/garagentor/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/dirkj/Documents/Pico/pico-project-generator/garagentor/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/dirkj/Documents/Pico/pico-project-generator/garagentor/build/pioasm/CMakeFiles/rebuild_cache.dir
